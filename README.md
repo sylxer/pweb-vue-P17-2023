@@ -1,6 +1,6 @@
 # pweb-vue-P17-2023
 
 Anggota:
-Sylvia Febrianti
-Agas Ananta Wijaya
-Atha Rahma Arianti
+Sylvia Febrianti\n
+Agas Ananta Wijaya\n
+Atha Rahma Arianti\n
